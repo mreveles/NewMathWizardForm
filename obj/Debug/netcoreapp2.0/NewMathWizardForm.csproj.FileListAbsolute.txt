@@ -1,0 +1,10 @@
+C:\CIDM3312\NewMathWizardForm\bin\Debug\netcoreapp2.0\NewMathWizardForm.deps.json
+C:\CIDM3312\NewMathWizardForm\bin\Debug\netcoreapp2.0\NewMathWizardForm.runtimeconfig.json
+C:\CIDM3312\NewMathWizardForm\bin\Debug\netcoreapp2.0\NewMathWizardForm.runtimeconfig.dev.json
+C:\CIDM3312\NewMathWizardForm\bin\Debug\netcoreapp2.0\NewMathWizardForm.dll
+C:\CIDM3312\NewMathWizardForm\bin\Debug\netcoreapp2.0\NewMathWizardForm.pdb
+C:\CIDM3312\NewMathWizardForm\obj\Debug\netcoreapp2.0\NewMathWizardForm.csproj.CoreCompileInputs.cache
+C:\CIDM3312\NewMathWizardForm\obj\Debug\netcoreapp2.0\NewMathWizardForm.AssemblyInfoInputs.cache
+C:\CIDM3312\NewMathWizardForm\obj\Debug\netcoreapp2.0\NewMathWizardForm.AssemblyInfo.cs
+C:\CIDM3312\NewMathWizardForm\obj\Debug\netcoreapp2.0\NewMathWizardForm.dll
+C:\CIDM3312\NewMathWizardForm\obj\Debug\netcoreapp2.0\NewMathWizardForm.pdb

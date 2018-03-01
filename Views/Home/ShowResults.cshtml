@@ -1,0 +1,14 @@
+@model UserResponse
+
+@{
+    ViewData["Title"] = "Math Operation Result";
+    //Layout = null;
+}
+
+<p>
+    <span class="badge badge-dark">@Model.Left</span>
+    <span class="badge badge-light">@Model.Function</span>
+    <span class="badge badge-dark">@Model.Right</span>    
+    <span class="badge badge-light">Equals</span>  
+    <span class="badge badge-success">@Model.Result </span>
+</p>
